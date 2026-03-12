@@ -1,4 +1,4 @@
-# eBanking Trading Platform — OOP Design Implementation
+# Java Banking System — OOP Design Patterns
 
 A Java simulation of a simplified eBanking and trading system, built around four classical OOP design patterns. The system processes commands from input files and produces structured JSON output.
 
